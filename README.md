@@ -16,18 +16,6 @@ The project demonstrates how to host a static web application on Azure and autom
 
 ---
 
-## 🌐 Live Demo
-
-> Deployed on Microsoft Azure App Service
-> *(Add your Azure App Service URL here)*
-
----
-
-## 🖼️ Screenshots
-
-> *(Add screenshots of the live website, GitHub Actions workflow, and Azure dashboard here)*
-
----
 
 ## ✨ Website Features
 
