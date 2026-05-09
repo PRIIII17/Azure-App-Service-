@@ -1,4 +1,4 @@
-# 🖤 NOIR Fashion Store — Deployed on Azure App Service
+# NOIR Fashion Store - Deployed on Azure App Service
 
 ![Azure](https://img.shields.io/badge/Azure-App%20Service-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
